@@ -56,6 +56,7 @@ import org.osgi.framework.Bundle;
 import org.osgi.framework.BundleException;
 import org.osgi.framework.ServiceRegistration;
 
+import com.ibm.jaggr.core.impl.transport.DojoHttpTransport;
 import com.ibm.jaggr.service.BadRequestException;
 import com.ibm.jaggr.service.IAggregator;
 import com.ibm.jaggr.service.IAggregatorExtension;

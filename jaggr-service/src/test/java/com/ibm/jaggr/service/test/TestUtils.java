@@ -36,6 +36,7 @@ import javax.servlet.http.HttpServletResponse;
 import org.easymock.EasyMock;
 import org.easymock.IAnswer;
 
+import com.ibm.jaggr.core.impl.transport.DojoHttpTransport;
 import com.ibm.jaggr.service.IAggregator;
 import com.ibm.jaggr.service.InitParams;
 import com.ibm.jaggr.service.InitParams.InitParam;
@@ -53,7 +54,6 @@ import com.ibm.jaggr.service.impl.modulebuilder.javascript.JavaScriptModuleBuild
 import com.ibm.jaggr.service.impl.modulebuilder.text.TextModuleBuilder;
 import com.ibm.jaggr.service.impl.options.OptionsImpl;
 import com.ibm.jaggr.service.impl.resource.FileResource;
-import com.ibm.jaggr.service.impl.transport.DojoHttpTransport;
 import com.ibm.jaggr.service.layer.ILayerCache;
 import com.ibm.jaggr.service.module.IModule;
 import com.ibm.jaggr.service.module.IModuleCache;

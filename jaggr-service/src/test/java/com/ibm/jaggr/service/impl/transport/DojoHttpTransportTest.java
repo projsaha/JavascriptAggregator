@@ -33,6 +33,7 @@ import org.junit.Test;
 import org.mozilla.javascript.Context;
 import org.mozilla.javascript.Scriptable;
 
+import com.ibm.jaggr.core.impl.transport.DojoHttpTransport;
 import com.ibm.jaggr.service.IAggregator;
 import com.ibm.jaggr.service.IAggregatorExtension;
 import com.ibm.jaggr.service.config.IConfig;
