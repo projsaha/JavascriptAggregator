@@ -1,0 +1,4 @@
+com.ibm.jaggr.core.impl.modulebuilder.i18n.I18nModuleBuilder
+com.ibm.jaggr.core.impl.modulebuilder.javascript.JavaScriptModuleBuilder
+com.ibm.jaggr.core.impl.modulebuilder.css.CSSModuleBuilder
+com.ibm.jaggr.core.impl.modulebuilder.text.TextModuleBuilder

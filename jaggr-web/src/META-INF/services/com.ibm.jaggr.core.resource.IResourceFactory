@@ -1,0 +1,5 @@
+com.ibm.jaggr.core.impl.resource.FileResourceFactory
+com.ibm.jaggr.web.impl.resource.ClassPathResourceFactory
+com.ibm.jaggr.web.impl.resource.JarResourceFactory
+
+
